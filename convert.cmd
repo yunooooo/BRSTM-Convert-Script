@@ -1,0 +1,1 @@
+forfiles /p %cd% /c "cmd /c vgm @file -o @fname.wav"
